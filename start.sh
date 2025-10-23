@@ -6,4 +6,5 @@ git clone --depth=1 https://github.com/nitish624/classes-notes.git
 
 cd classes-notes
 
-chmod +x debian.sh install.sh me.sh
+chmod +x debian.sh install.sh me.sh README.md
+mv debian.sh install.sh me.sh README.md /data/data/com.termux/files/usr/bin/
